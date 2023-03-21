@@ -1,5 +1,5 @@
 {
-  "name": "ethevan-eslint-plugin",
+  "name": "eslint-plugin-ethevan",
   "version": "1.0.0",
   "main": "index.js"
 }
