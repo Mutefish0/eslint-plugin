@@ -1,5 +1,5 @@
 {
-  "name": "@shared/eslint-plugin-quality",
+  "name": "@ethevan/eslint-plugin",
   "version": "1.0.0",
   "private": true,
   "main": "index.js"
